@@ -19,6 +19,12 @@
         <activity android:name=".StartLogin">
 
         </activity>
+        <activity android:name=".Login">
+
+        </activity>
+        <activity android:name=".SignUp">
+
+        </activity>
     </application>
 
 </manifest>
