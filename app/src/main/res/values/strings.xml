@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">DiseaseDetector</string>
+    <string name ="select_symptoms">Select Symptoms</string>
+    <string-array name="symptoms_name">
+        <item>Headache</item>
+        <item>Pain</item>
+        <item>Fever</item>
+        <item>Nausea</item>
+        <item>Fatigue</item>
+        <item>Weight loss</item>
+        <item>Cough</item>
+        <item>Itching in neck</item>
+        <item>Abdominal pain</item>
+        <item>Skin rashes</item>
+    </string-array>
+    <string-array name="age">
+        <item>5-10 years</item>
+        <item>10-14 years</item>
+        <item>14-18 years</item>
+        <item>18-22 years</item>
+        <item>22-28 years</item>
+        <item>28-35 years</item>
+        <item>35-45 years</item>
+        <item>45-60 years</item>
+        <item>60-75 years</item>
+        <item>75+</item>
+
+    </string-array>
+    <string-array name="type_of_headache">
+        <item>one sided</item>
+        <item>around eyebrows</item>
+        <item>across cheeks</item>
+        <item>tension</item>
+        <item>cluster</item>
+    </string-array>
+    <string-array name="type_of_pain">
+        <item>Back Pain</item>
+        <item>Neck Pain</item>
+        <item>Muscle Pain</item>
+    </string-array>
+
 </resources>
